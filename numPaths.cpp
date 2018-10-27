@@ -1,3 +1,4 @@
+// Problem statement : https://www.geeksforgeeks.org/number-of-paths-with-exactly-k-coins/
 // A Dynamic Programming based program to count exactly 'k' coins
 #include <bits/stdc++.h>
 using namespace std;
